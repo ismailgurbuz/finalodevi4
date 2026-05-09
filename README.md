@@ -1,4 +1,4 @@
-# Lojistik Ağı ve Paket Yönetim Sistemi (LojistikProje)
+# Lojistik Ağı ve Paket Yönetim Sistemi
 
 Bu proje, Kırklareli Üniversitesi Veri Yapıları ve Algoritmalar dersi kapsamında geliştirilmiş, şehirler arası bağlantıların ve kargo indeksleme süreçlerinin simüle edildiği hibrit bir C projesidir. Sistem, graf teorisi ve hash tablosu algoritmalarının entegre çalışmasını temel alır.
 
